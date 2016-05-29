@@ -1,1 +1,1 @@
-This is a readme with no license.
+This is a readme with a license found in the LICENSE file.
